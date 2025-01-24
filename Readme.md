@@ -263,7 +263,6 @@ systemctl status named-chroot
 # disable the chroot jail env
 /usr/libexec/setup-named-chroot.sh /var/named/chroot off
 mount | grep chroot
-```
 
 ##  Start Service 
 
@@ -274,6 +273,6 @@ mount | grep chroot
 # Start service
 systemctl start named-chroot
 systemctl status named-chroot
-'''
+```
 
 
