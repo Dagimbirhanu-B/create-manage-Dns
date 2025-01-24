@@ -21,7 +21,7 @@ There are many different implementations of the DNS system today. Each DNS serve
 - Windows Server: 10.10.2.131
 # Cheat-Sheet
 You can find below the steps in-short, for more details skip this part and follow the detailed steps.
-'''
+```
 #################################
 ### Set Host and Domain Name
 #################################
@@ -263,6 +263,7 @@ systemctl status named-chroot
 # disable the chroot jail env
 /usr/libexec/setup-named-chroot.sh /var/named/chroot off
 mount | grep chroot
+```
 
 ##  Start Service 
 
