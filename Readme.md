@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/84373cc9-7742-4fad-bb42-12d1222060c1)# Bind9 DNS Server
+
 ## Introduction
 ### What is DNS?
 
